@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Hiranya Keshan! 👋😊
+Tech Enthusiast | Circuit Designer | Programmer
 
-<!--
-**HiranyaKeshan/HiranyaKeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about combining my expertise in electronics, product designing and researching to create innovative solutions. Here, you'll find my portfolio of projects, from hardware prototypes to digital systems designed for practical applications.
 
-Here are some ideas to get you started:
+💻 I specialize in electronics design & manufacturing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills and Technologies
+Electronics Design
+CNC Machining
+Programming
+Robotics
+
+📫 Connect with Me
+LinkedIn : www.linkedin.com/in/hiranya-keshan-821824333
+
+Feel free to fork or star any projects that interest you! Looking forward to collaborating with you. 😊
+
