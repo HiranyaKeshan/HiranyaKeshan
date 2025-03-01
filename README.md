@@ -1,5 +1,5 @@
 Hi, I'm Hiranya Keshan! 👋😊
-Tech Enthusiast | Circuit Designer | Programmer
+Tech Enthusiast | Designer | Programmer
 
 Welcome to my GitHub profile! I'm passionate about combining my expertise in electronics, product designing and researching to create innovative solutions. Here, you'll find my portfolio of projects, from hardware prototypes to digital systems designed for practical applications.
 
